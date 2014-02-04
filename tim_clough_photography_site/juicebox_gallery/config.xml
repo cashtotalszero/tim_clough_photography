@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Goodnight, Bristol"
+
+>
+  <image imageURL="images/IMG_9530.JPG"
+	thumbURL="thumbs/IMG_9530.JPG"
+	linkURL="images/IMG_9530.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Castle Park]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+  <image imageURL="images/IMG_1667.JPG"
+	thumbURL="thumbs/IMG_1667.JPG"
+	linkURL="images/IMG_1667.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Bristol Bridge]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+  <image imageURL="images/IMG_1681.JPG"
+	thumbURL="thumbs/IMG_1681.JPG"
+	linkURL="images/IMG_1681.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[St Mary-le-Port church]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+  <image imageURL="images/IMG_1745.JPG"
+	thumbURL="thumbs/IMG_1745.JPG"
+	linkURL="images/IMG_1745.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Clifton]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+  <image imageURL="images/IMG_1768.JPG"
+	thumbURL="thumbs/IMG_1768.JPG"
+	linkURL="images/IMG_1768.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Clifton Suspension Bridge]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+  <image imageURL="images/IMG_1799.JPG"
+	thumbURL="thumbs/IMG_1799.JPG"
+	linkURL="images/IMG_1799.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Hotwells]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+  <image imageURL="images/IMG_1803.JPG"
+	thumbURL="thumbs/IMG_1803.JPG"
+	linkURL="images/IMG_1803.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[The Portway]]></title>
+    <caption><![CDATA[photo by Tim Clough (2012)]]></caption>
+  </image>
+</juiceboxgallery>
